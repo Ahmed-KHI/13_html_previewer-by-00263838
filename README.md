@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Project Title: HTML Previewer
 
-## Getting Started
+Description:
+The HTML Previewer is a straightforward and user-friendly web application designed to allow users to input HTML code and view its rendered output in real-time. This project serves as a practical tool for developers, learners, and anyone interested in experimenting with HTML syntax.
 
-First, run the development server:
+Key Functionalities:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Code Input Area: Users can type or paste their HTML code into a responsive textarea, which supports basic HTML syntax.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Live Preview: The application instantly displays the formatted HTML output, providing immediate feedback on the user's input.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Predefined HTML: A button allows users to quickly paste a set of predefined HTML snippets, facilitating experimentation and learning.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Technology Stack:
 
-## Learn More
+Built with React for a dynamic user interface.
 
-To learn more about Next.js, take a look at the following resources:
+Utilizes TypeScript for type safety and improved code quality.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Styled with a modern UI approach, ensuring a visually appealing and accessible experience.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Context:
+This project is the thirteenth in a series of 30 projects developed as part of the 30 Days of 30 Projects initiative by the Governor IT Initiative Program. It emphasizes hands-on learning and practical application of web development concepts, enhancing skills in front-end technologies and user experience design.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+With the HTML Previewer, users can efficiently learn and test HTML code, making it an excellent educational tool for beginners and a handy resource for experienced developers.
